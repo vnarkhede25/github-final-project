@@ -14,5 +14,4 @@ Simple Interest = (p × t × r) / 100
 ```text
 Simple Interest = p * t * r / 100
 ```
-
 This project is created as part of a learning exercise to understand GitHub and open-source collaboration.
